@@ -1,0 +1,31 @@
+title: "Yasy Mandi" # Your site title
+logo: "/images/logo.png?raw=true" # Your logo or profile photo
+description: > 
+  <p align="center">
+    <b>Full Stack Software Engineer</b>
+    <br><br>
+    6+ years of experience across embedded, frontend, and backend engineering.
+    <br><br>
+  </p>
+
+# Theme & Styling
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+# Social Links
+social_links:
+  github: https://github.com/yasymandi
+  linkedin: https://www.linkedin.com/in/yasaman-mandi-3a5480119/
+  email: mailto:yasymandi@gmail.com
+
+# Extra Visual Tweaks
+show_downloads: false
+markdown: kramdown
+highlighter: rouge
+
+# Footer
+footer: >
+  <p align="center">
+    © 2025 Yasy Mandi • Built with <a href="https://pages.github.com/">GitHub Pages</a> 
+  </p>
