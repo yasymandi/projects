@@ -5,5 +5,5 @@ Spending Trends is a full-stack application that helps users gain insights into 
 
 ### Technologies:
 
-Backend: Python, Django REST, JWT authorization </n>
-Frontend: React, Typescript, CSS </n>
+Backend: Python, Django REST, JWT authorization <br>
+Frontend: React, Typescript, CSS 

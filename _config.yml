@@ -1,12 +1,10 @@
 title: "Yasy Mandi" # Your site title
 logo: "/images/logo.png?raw=true" # Your logo or profile photo
-description: > 
-  <p align="center">
-    <b>Full Stack Software Engineer</b>
-    <br><br>
+description: >
+  <div class="site-description">
+    <strong>Full Stack Software Engineer</strong><br><br>
     6+ years of experience across embedded, frontend, and backend engineering.
-    <br><br>
-  </p>
+  </div>
 
 # Theme & Styling
 remote_theme: pages-themes/minimal@v0.2.0
