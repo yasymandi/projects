@@ -5,7 +5,7 @@
 ### Full Stack Projects
 
 [GoalBridge AI - Startup](/descriptions/goalbridge_ai_description.md)
-<video width="100%" height="300" controls>
+<video width="100%" controls>
   <source src="videos/goalbridge_ai.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -13,7 +13,7 @@
 ---
 
 [Spending Trends - Full Stack Financial Analytics app](/descriptions/spending_trends_description.md)
-<video width="100%" height="300" controls>
+<video width="100%" controls>
   <source src="videos/spending_trends.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
