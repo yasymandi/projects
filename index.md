@@ -1,5 +1,3 @@
-<div style="margin: 0 auto;">
-
 ## Portfolio
 
 ---
@@ -27,5 +25,4 @@
         height="400" 
         style="border: 2px solid #ddd; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
 </iframe>
-</div>
 ---
